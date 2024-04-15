@@ -19,8 +19,8 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	##Selection Sort
-##Developed by SHARIKA.R
-##Reg no:212223230204
+## Developed by SHARIKA.R
+## Reg no:212223230204
 
 
 num=eval(input())
@@ -33,8 +33,8 @@ for i in range(len(num)):
 print(num)
         
 ii)	##Insertion Sort
-##Developed by SHARIKA.R
-##Reg no:212223230204
+## Developed by SHARIKA.R
+## Reg no:212223230204
 num=eval(input())
 for i in range(1,len(num)):
     insert=num[i]
@@ -49,7 +49,7 @@ print(num)
 PROGRAM 1:
 ![image](https://github.com/SHARIKA818/Sorting-Algorithms/assets/139834761/bbd8bdf2-bb71-4f52-8aec-736b8c59a38f)
 PROGRAM 2:
-![image](https://github.com/SHARIKA818/Sorting-Algorithms/assets/139834761/29c7dbac-1487-4ca6-8f8e-afc0d29dbad3)
+![image](https://github.com/SHARIKA818/Sorting-Algorithms/assets/139834761/9684c63a-a5fd-47c1-99b4-470e930fed5c)
 
 
 ## Result:
