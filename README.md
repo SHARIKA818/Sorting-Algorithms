@@ -21,8 +21,6 @@ To write a program to perform selection sort and insertion sort using python pro
 i)	##Selection Sort
 ## Developed by SHARIKA.R
 ## Reg no:212223230204
-
-
 num=eval(input())
 for i in range(len(num)):
     low=i
