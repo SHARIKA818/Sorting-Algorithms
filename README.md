@@ -21,6 +21,7 @@ To write a program to perform selection sort and insertion sort using python pro
 i)	##Selection Sort
 ## Developed by SHARIKA.R
 ## Reg no:212223230204
+```
 num=eval(input())
 for i in range(len(num)):
     low=i
@@ -29,10 +30,11 @@ for i in range(len(num)):
             low=j
     num[i],num[low]=num[low],num[i]
 print(num)
-        
+```      
 ii)	##Insertion Sort
 ## Developed by SHARIKA.R
 ## Reg no:212223230204
+```
 num=eval(input())
 for i in range(1,len(num)):
     insert=num[i]
@@ -42,12 +44,12 @@ for i in range(1,len(num)):
         j=j-1
     num[j+1]=insert
 print(num)
-
+```
 ## Output:
 PROGRAM 1:
-![image](https://github.com/SHARIKA818/Sorting-Algorithms/assets/139834761/bbd8bdf2-bb71-4f52-8aec-736b8c59a38f)
+![alt text](image.png)
 PROGRAM 2:
-![image](https://github.com/SHARIKA818/Sorting-Algorithms/assets/139834761/9684c63a-a5fd-47c1-99b4-470e930fed5c)
+![alt text](image-1.png)
 
 
 ## Result:
